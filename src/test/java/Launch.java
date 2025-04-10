@@ -9,6 +9,7 @@ public class Launch {
 		
 		System.setProperty("webdriver.chrome.driver", "drivers//chromedriver.exe");
 		driver = new ChromeDriver();
+		System.out.println("welcome");
 		
 		
 }
